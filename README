@@ -1,0 +1,6 @@
+• Developed a Python-based NLP Twitter sentiment analysis project using a Naive Bayes classifier to accurately classify
+the sentiment of tweets..
+• Implemented data preprocessing techniques, including tokenization, stop-word removal, and stemming, to clean and
+prepare the Twitter data for sentiment analysis..
+• Achieved high accuracy in sentiment classification by training the Naive Bayes classifier on a large labeled dataset and
+optimizing feature selection and model parameters.
